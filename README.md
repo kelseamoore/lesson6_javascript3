@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 21, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Kelsea Moore)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment uses JavaScript to access and create elements in a web document to create a photo gallery application.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kelseamoore.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (The Document Object Model (DOM) is a collection of nodes that represent HTML elemtents and attributes on a web page. The DOM is used in JavaScript to create dynamic web pages.)
+2. (Elements in the DOM can be accessed by using an id, tags or CSS selectors.)
+3. (You can use JavaScript to create a new element in the DOM by using createElement() and by appending the child node to the parent node.)
